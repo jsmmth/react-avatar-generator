@@ -45,6 +45,7 @@ With a little playing around with this component I found it quite easy to make s
 | ------------ | --------------- | ---------------------- |
 | randomize          | function           | Randomizes the kaleidoscope to have a new random pattern             |
 | isValidHex          | function           | Passing in a string will return true of false if that string is a valid hex, a helpful function to have when working with colors             |
+| getImageData          | function           | Calling this function returns the raw image/png data you can then use to save into a .png file.             |
 
 ## Using Methods
 
