@@ -28,6 +28,12 @@ class AvatarGenerator extends React.PureComponent {
     }
   }
 
+  getImageData() {
+    const { canvas } = this;
+    const dataURL = canvas.toDataURL('image/png');
+    return dataURL;
+  }
+
   collectCanvasSettings() {
     const { canvas } = this;
     const { width, height } = this.props;
