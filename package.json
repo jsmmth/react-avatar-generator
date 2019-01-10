@@ -1,6 +1,6 @@
 {
   "name": "react-avatar-generator",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "React component which allows your users to generate random kaleidoscope avatars.",
   "main": "build/index.js",
   "peerDependencies": {
