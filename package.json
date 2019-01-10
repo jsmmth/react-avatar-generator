@@ -1,0 +1,39 @@
+{
+  "name": "react-avatar-generator",
+  "version": "0.0.1",
+  "description": "React component which allows your users to generate random kaleidoscope avatars.",
+  "main": "build/index.js",
+  "peerDependencies": {
+    "react": "^16.7.0"
+  },
+  "dependencies": {
+    "hex-rgb": "^3.0.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "tinycolor": "^0.0.1",
+    "webpack": "^4.28.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Joseph Smith",
+    "email": "jsmth.dev@gmail.com"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "eslint": "^5.12.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.12.3",
+    "webpack-cli": "^3.2.1"
+  }
+}
