@@ -4,7 +4,7 @@
   "description": "React component which allows your users to generate random kaleidoscope avatars.",
   "main": "build/index.js",
   "peerDependencies": {
-    "react": "^16.7.0"
+    "react": "^15.0.0"
   },
   "repository": {
     "url": "https://github.com/JosephSmith127/react-avatar-generator"
@@ -12,7 +12,7 @@
   "dependencies": {
     "hex-rgb": "^3.0.0",
     "prop-types": "^15.6.2",
-    "react": "^16.7.0",
+    "react": "^15.0.0",
     "webpack": "^4.28.1"
   },
   "scripts": {
