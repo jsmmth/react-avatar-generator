@@ -13,7 +13,6 @@
     "hex-rgb": "^3.0.0",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
-    "tinycolor": "^0.0.1",
     "webpack": "^4.28.1"
   },
   "scripts": {
