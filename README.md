@@ -30,7 +30,7 @@ With a little playing around with this component I found it quite easy to make s
 | zoom | number | 0.2 |              |
 | rotation       | number     | 0.3             |              |
 | fade       | number     | 1             |              |
-| opaicty       | number     | 0.3             |              |
+| opacity       | number     | 0.3             |              |
 | amount       | number     | 16             |              |
 | spacing       | number     | 20             |              |
 | wavelength       | number     | 2             |              |
